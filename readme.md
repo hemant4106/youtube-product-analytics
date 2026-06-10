@@ -75,16 +75,16 @@ Only 6.35% of viewers engage with content, but engaged users convert strongly to
 
 ### Executive Summary
 
-![Executive Summary](screenshots/Executive-Summary.png)
+![Executive Summary](ScreenShots/Executive-Summary.png)
 
 ### Funnel Analysis
 
-![Funnel Analysis](screenshots/Funnel-Analysis.png)
+![Funnel Analysis](ScreenShots/Funnel-Analysis.png)
 
 ### User Segmentation
 
-![User Segmentation](screenshots/User-Segmentation.png)
+![User Segmentation](ScreenShots/User-Segmentation.png)
 
 ### Retention Analysis
 
-![Retention Analysis](screenshots/Retention-Analysis.png)
+![Retention Analysis](ScreenShots/Retention-Analysis.png)
